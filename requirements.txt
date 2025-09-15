@@ -1,0 +1,14 @@
+#contains all the requirements for this projet
+
+v1.0 → Data cleaning done. 
+v2.0 → EDA complete. 
+v3.0 → RFM analysis done. 
+v4.0 → Final report ready. 
+
+Day 1 – Project Setup & Data Familiarization
+Day 2 – Data Cleaning 
+Day 3 – Data Integration & Basic Analysis
+Day 4 – Advanced Insights (RFM Analysis) 
+Day 5 – Visualization 
+Day 6 – Reporting & Automation
+Day 7 – Final Polish & Submission 
